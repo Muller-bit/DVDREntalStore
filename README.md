@@ -1,6 +1,6 @@
 User should be able to see current offer: which movies and how
 many copies are available in the store
-4. (5 points) After providing client id user should see all the rentals connected
+ (5 points) After providing client id user should see all the rentals connected
 to this client. Display the results in two sections: active rentals (those not
 yet returned) and historic rentals
 5. (5 points) There should be an option to create a new rental, using client id
